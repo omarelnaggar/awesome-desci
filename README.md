@@ -15,6 +15,7 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
 - ▶️[YouTube](#youtube)
 - 💬[Telegram groups](#telegram-groups)
 - 🛠️[Jobs](#jobs)
+- 👤[DeSci Directory](https://docs.google.com/spreadsheets/d/1gWj_O2-Ox4QLTL9hdRNQoZ-VAtHGyGUBsrawVQfAY24/edit?usp=sharing)
 
 ---
 
